@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="EnhancedCraftAndRepair" />
+		<Description value="Repairs current weapon/tool in hands by mouse wheel click. Items to repair are always placed at the top of the queue. Crafting queue management: Moves right-clicked item to the top of the crafting queue." />
+		<Author value="Dizor" />
+    <Website value="https://github.com/IDizor/7D2D-EnhancedCraftAndRepair" />
+		<Version value="1.0" compat="A20"/>
+	</ModInfo>
+</xml>
